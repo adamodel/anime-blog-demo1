@@ -1,7 +1,7 @@
 - links_category: This is the first categrory
   has_thumbnail: true
   list:
-      - name: Jack's Blog
+      - name: LiFu's Blog
         link: https://example.com
         description: I will refresh my article every day.
         avatar: /images/avatar-0.jpg
